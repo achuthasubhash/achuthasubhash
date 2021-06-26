@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/achuthasubhash/achuthasubhash.svg)](http://hits.dwyl.com/achuthasubhash/achuthasubhash)
 
 
 Here are some ideas to get you started:
